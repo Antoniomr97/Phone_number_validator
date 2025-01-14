@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de dependencias
+*.pyc
+*.pyo
+__pycache__/
